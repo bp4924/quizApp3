@@ -8,4 +8,4 @@ Also includes some simple animations (progress bar, loader wheel) that will prob
 
 Great learning exercise.
 
-I used sessionStorage instead of localStorage as a preference. That was I start with a new top 5 everytime I open the app.
+I used sessionStorage instead of localStorage as a preference. That way I start with a new top 5 everytime I open the app.
